@@ -18,6 +18,7 @@ body {
     background-color: white;
     padding: 2rem;
     border-radius: 10px;
+    filter: drop-shadow(2px 2px 5px #808080);
 }
 
 .accordion-title {
@@ -66,6 +67,7 @@ body {
 .attribution {
     font-size: 11px;
     text-align: center;
+    margin-top: 1rem;
 }
 
 .attribution a {
